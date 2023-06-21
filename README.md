@@ -12,8 +12,8 @@
  4. 선택된 사진들의 순서를 Up, Down버튼으루 수정합니다.
  5. 선택된 사진을 제고하고 싶으면 Delete버튼으로 제거합니다. 
  6. 작업이 완료되었으면 save without images, save with images버튼으로 저장할 폴더를 선택하여 저장합니다.
- 6.1 save without images는 선택된 파일과 요청사항을 기록한 appendix.txt 파일만 저장합니다. 
- 6.2 save with images는 appendix.txt 파일과 선택된 이미지들이 저장하는 폴더에 저장됩니다. 
+   - save without images는 선택된 파일과 요청사항을 기록한 appendix.txt 파일만 저장합니다. 
+   - save with images는 appendix.txt 파일과 선택된 이미지들이 저장하는 폴더에 저장됩니다. 
  저장하는 폴더는 되도록이면 빈 폴더로 선택하고, 파일이 덮어써질 수 있으니 주의합니다. 
  사진은 선택된 사진창의 순서대로 파일명과 요청사항이 선택된 폴더의 appendix.txt파일에 저장됩니다. 
 ## 본 목적
