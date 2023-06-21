@@ -1,4 +1,4 @@
-# PhotoSelector [다운로드]([https://github.com/BKLim87/PhotoSelector/raw/main/photo_selector.zip](https://github.com/BKLim87/PhotoSelector/blob/da214e71e2053594e8d625b56e7e278283ae5525/photo_selector.exe)
+# PhotoSelector [다운로드](https://github.com/BKLim87/PhotoSelector/raw/main/photo_selector.zip](https://github.com/BKLim87/PhotoSelector/blob/da214e71e2053594e8d625b56e7e278283ae5525/photo_selector.exe)
 ## 예시
 ![Example Screenshot](./capture.JPG)
 ## 목적
