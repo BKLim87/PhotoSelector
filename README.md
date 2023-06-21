@@ -1,6 +1,6 @@
 # PhotoSelector [다운로드](https://github.com/BKLim87/PhotoSelector/raw/main/photo_selector.zip)
 ## 예시
-![Example Screenshot](./캡처2.PNG)
+![Example Screenshot](./capture.JPG)
 ## 목적
 
  많은 사진들중에서 필요한 사진을 고르고 그 사진들의 순서를 배열하고 추가적으로 필요한 설명들을 적을 수 있습니다. 
