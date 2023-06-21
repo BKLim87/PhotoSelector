@@ -1,11 +1,11 @@
-# PhotoSelector [다운로드](https://github.com/BKLim87/PhotoSelector/blob/da214e71e2053594e8d625b56e7e278283ae5525/photo_selector.exe)
+# PhotoSelector [다운로드](https://github.com/BKLim87/PhotoSelector/archive/refs/heads/main.zip)
 ## 예시
 ![Example Screenshot](./capture.JPG)
 ## 목적
 
  많은 사진들중에서 필요한 사진을 고르고 그 사진들의 순서를 배열하고 추가적으로 필요한 설명들을 적을 수 있습니다. 
 ## 사용법
- 0. 위의 다운로드 링크를 클릭하여 photo_selector.exe파일을 다운받아 실행합니다.
+ 0. 위의 다운로드 링크를 클릭하여 다운받은 zip파일의 압축을 해제하고 photo_selector.exe파일을 실행합니다.
  1. load버튼을 눌러 필요한 사진들을 불러옵니다. 
  2. base 사진들 중에서 사진을 골라 Select버튼으로 선택합니다. 
  3. 아래의 요청사항 칸에 내용을 적습니다. 
